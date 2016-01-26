@@ -1,10 +1,14 @@
-## Starting Point
+## 3 - Starting Points
 
-###Model Structure
-The model structure must be defined such that practitioners’ responsibility is limited to 
-input data preparation, re-estimation/re-specification (within a model component, if 
-needed), calibration, validation, and testing.  For example, a model system may have 
-the following components:
+We anticipate a wide array of involved stakeholders, who will advocate for a mosaic of complementary projects spanning the many interests and needs of our industry.
+
+Thus, one of the first challenges will be selecting the initial set of initiatives that will be actively supported. There are many candidates already in existence; some of them are at least partially duplicative or competitive with each other. The foundation doesn’t want to be “kingmaker” but with limited resources, reality dictates the need for careful selection and stewardship.
+
+### Potential Incubated Projects
+
+#### ActivitySim
+
+[ActivitySim](http://github.com/UDST/activitysim) is a collaboratively managed codebase that is capable of doing the following:
 * Population synthesizer; 
 * Automobile ownership choice;
 * Usual work and school location choice;
@@ -20,25 +24,29 @@ the following components:
 * Roadway and transit assignment; and,
 * Feedback mechanics.
 
-These components will each have a minimum set of inputs, a fixed set of outputs, and a 
-fixed execution sequence.  Consumers of the framework, therefore, will have a reasonably 
-constrained sandbox in which to play.
+#### Fast-Trips
 
-The model framework’s demonstration of usefulness will necessarily result in at least one 
-set (and more likely two sets – one for each region) of estimated coefficients and 
-calibrated constants.  After downloading the software and test bed input data, potential 
-users will be able to quickly and easily begin running the models for the test bed 
-regions.  Users will be on their own to adapt the system to their own regions. 
+[Fast-Trips](https://github.com/MetropolitanTransportationCommission/fast-trips) is a collaboratively developed person-based dynamic transit assignment.
 
-Members of the community unhappy with the structure can (and hopefully will) suggest 
-replacement structures.  But for those structures to be considered, they must provide a 
-demonstrable improvement over the existing structure – in terms of predictive accuracy, 
-and/or tractability, and/or realism.
 
-Today we argue over the theoretical superiority of, say, conditioning the non-mandatory 
-location choice on the tour mode choice (or vice versa), and may even put forward 
-estimation results to make our case.  Today we tout a model’s features (e.g., explicitly 
-representing bicycle route choice) while artfully avoiding questions about said feature’s 
-resulting improvement in predictive accuracy.  In the Travel Model as Science Program, 
-ideas will be assessed in the context of practical transportation planning and those with 
-a demonstrated superiority will be adopted.
+#### Other projects that could be considered
+
+There are a variety of other projects that have considerable user-bases that could also be considered such as:
+[GreenSTEP/RSPM](https://github.com/gregorbj/RSPM)
+[DTALite](https://sites.google.com/site/dtalite/)
+[SynthPop](https://github.com/UDST/synthpop)
+[CycleTracks](https://github.com/sfcta/CycleTracks)
+[Transit Reliability Toolbox](https://github.com/sfcta/delay_distribution)
+
+### Potential Managed Standards
+
+#### OMX
+
+[Open Matrix Format](https://sites.google.com/site/openmodeldata/)
+
+#### GTFS-Plus
+
+[GTFS-Plus](https://github.com/osplanning-data-standards/GTFS-PLUS) is a transit network specification that is compatible with GTFS tools yet capable of being used for dynamic transit assignment.
+
+
+
