@@ -1,33 +1,38 @@
 ## 3 - Starting Points
 
-We anticipate a wide array of involved stakeholders, who will advocate for a mosaic of complementary projects spanning the many interests and needs of our industry.
+The organization will be set up to be flexible to the needs of the industry.  We anticipate a wide array of involved stakeholders, who will advocate for a mosaic of complementary projects spanning the many interests and needs of our industry. The board will be in charge of what projects are undertaken.  That said, there are a number of core activities, longstanding needs and suitable example projects that are outlined in this section in order to have more substance in the proposal.
 
-Thus, one of the first challenges will be selecting the initial set of initiatives that will be actively supported. There are many candidates already in existence; some of them are at least partially duplicative or competitive with each other. The foundation doesn’t want to be “kingmaker” but with limited resources, reality dictates the need for careful selection and stewardship.
+### Potential Core Activities
+
+#### Library
+
+Serve as a clearinghouse of useful planning tools and methods.
+
+#### Training
+
+Teach basic core competency in modern travel analysis skills, through workshops, online materials, and training. An example of the type of training envisioned is the set of trainings developed by the organization Software Carpentry and recently modified by [PSRC](https://github.com/psrc/novice-python). 
+
+#### Research Direction
+
+Direct research funds towards promising research projects.
 
 ### Potential Incubated Projects
 
 #### ActivitySim
 
-[ActivitySim](http://github.com/UDST/activitysim) is a collaboratively managed codebase that is capable of doing the following:
-* Population synthesizer; 
-* Automobile ownership choice;
-* Usual work and school location choice;
-* Work and school (mandatory) tour generation;
-* Work and school scheduling;
-* Non-mandatory tour generation;
-* Non-mandatory tour location choice;
-* Non-mandatory tour scheduling;
-* Tour mode choice;
-* Stop frequency;
-* Stop location choice;
-* Trip mode choice;
-* Roadway and transit assignment; and,
-* Feedback mechanics.
+[ActivitySim](http://github.com/UDST/activitysim) is a collaboratively managed Python codebase that is capable of executing a state of the practice activity-based travel demand model.  It has an active set of core contributors, reviewers, and supporters.
 
 #### Fast-Trips
 
 [Fast-Trips](https://github.com/MetropolitanTransportationCommission/fast-trips) is a collaboratively developed person-based dynamic transit assignment.
 
+#### Regional Travel Modeling as a Science
+
+Develop a research, testing and award system for methods and processes that improve the status quo of regional travel modeling as dictated by a set of defined performance measures and observed data in regional test beds.
+
+#### Regional Test Beds
+
+Support and maintain regional test-bed data sets to enable rigorous testing of our regional modeling tools.
 
 #### Other projects that could be considered
 

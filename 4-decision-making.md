@@ -5,6 +5,9 @@ A non-profit organization as described in [A - Foundation Structure](A-foundatio
 ### Board
 The organization will be overseen by a seven-member board comprised of travel analysis researchers, developers, users, and stakeholders.  
 
+### Project Selection
+One of the first challenges will be selecting the initial set of initiatives that will be actively supported. There are many candidates already in existence; some of them are at least partially duplicative or competitive with each other. The foundation doesn’t want to be “kingmaker” but with limited resources, reality dictates the need for careful selection and stewardship.
+
 ### Officers
 The Officers of the foundation oversee the day-to-day affairs of the Foundation. The officers are elected by the Board of Directors.
 
@@ -28,7 +31,7 @@ Example program and project committees:
  * Open Source Travel Analysis Library – a program to create a library of open source modeling tools and methods.
  * Route-Choice Models - a project committee charged with directing, supporting, and disseminating research and methods related to route choice modeling.
 
-### ROLES
+### Roles
 Typical roles within each individual project community include:
 
 * stakeholder
@@ -36,25 +39,25 @@ Typical roles within each individual project community include:
 * contributor
 * associate
 
-#### STAKEHOLDER
+#### Stakeholder
 A stakeholder is someone that has an interest in the results of the project in order to better accomplish their job. They contribute to the foundation projects by providing feedback to the PMC about the overall direction and needs of the project. Stakeholders participate in the foundation community by serving as a subject matter resource.
 
-#### USER
+#### User
 A user is someone that uses our project. They contribute to the foundation projects by providing feedback to developers in the form of bug/error reports and feature suggestions. Users participate in the foundation community by helping other users in user support forums.
 
-#### CONTRIBUTOR
-A developer is a user who contributes to a project in the form of data, code, analysis, and documentation. They take extra steps to participate in a project, are active on the developer mailing list, participate in discussions, provide patches, documentation, suggestions, and criticism. Developers are also known as contributors.
+#### Contributor
+A contributor is a user who contributes to a project in the form of data, code, analysis, and documentation. They take extra steps to participate in a project, are active on the developer mailing list, participate in discussions, provide patches, documentation, suggestions, and criticism. Developers are also known as contributors.
 
-#### ASSOCIATE [ INVESTIGATOR? OTHER?]
+#### Associate [ Investigator? Other?]
 An associate is a contributor that was given management access to the project files ( including code repositories if applicable ) and has a signed Contributor License Agreement (CLA) on file. They have a foundation mail address. Not needing to depend on other people for the patches or small changes, they are actually making short-term decisions for the project. The PMC can (even tacitly) agree and approve it into permanency, or they can reject it. Remember that the PMC makes the decisions, not the individual associate.
 
-#### PMC MEMBER
+#### PMC member
 A PMC member is a stakeholder, contributor or associate that was elected due to merit for the evolution of the project and demonstration of commitment. They have write and owner-level access to the project files, an organization email address, the right to vote for the community-related decisions and the right to propose an active user for associateship. The PMC as a whole is the entity that controls the project, nobody else. In particular, the PMC must vote on any formal release of their project's products.
 
-#### PMC CHAIR
+#### PMC chair
 The Chair of a Project Management Committee (PMC) is appointed by the Board from the PMC Members. The PMC as a whole is the entity that controls and leads the project. The Chair is the interface between the Board and the Project. PMC Chairs have specific duties.
 
-#### FOUNDATION MEMBER
+#### Foundation Member
 A foundation member is a person who was nominated by current members and elected due to merit for the evolution and progress of the foundation. Members care for the foundation itself. This is usually demonstrated through the roots of project-related and cross-project activities. Legally, a member is a "shareholder" of the foundation, one of the owners. They have the right to elect the board, to stand as a candidate for the board election and to propose a committer for membership. They also have the right to propose a new project for incubation (we'll see later what this means). The members coordinate their activities through their mailing list and through their annual meeting. We have a full listing of members.
 
 ### Calendar
