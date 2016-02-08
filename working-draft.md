@@ -109,10 +109,10 @@ To encourage alignment with practice and to extract the best ideas from practiti
 ### Funding
 The Travel Modeling as Science Program will be expensive – perhaps $20 million or so annually once fully implemented.  The Program, however, represents an opportunity for an order-of-magnitude improvement on the return on investment over the existing paradigm, in which research with a token technology transfer component fails to make consistent, meaningful, measurable contributions to practice, and in which practice proceeds along an idiosyncratic, largely ad hoc, trajectory towards improvement. 
 
-A proposition guiding this document is that articulating, as a community, a useful way forward without fully discussing the fiscal realities is valuable.  As such, this is all I will say about funding, aside from noting several realistic funding avenues exist.  If this document succeeds in motivating a second iteration of its self, a logical next step is a detailed business plan. 
+A proposition guiding this document is that articulating, as a community, a useful way forward without fully discussing the fiscal realities is valuable.  As such, this is all I will say about funding, aside from noting several realistic funding avenues exist.  If this document succeeds in motivating further iterations of its self, a logical future step is a detailed business plan. 
 
 ## 3.	Next Steps
-A session at the 2016 TRB Annual Meeting was devoted to discussing the strengths, weaknesses, opportunities, and threats to this straw man program proposal.  In response, minor modifications have been made to this proposals and others have put forward other ideas.  We hope to continue the broader discussion at the [2016 Innovations in Travel Modeling conference](http://www.cvent.com/events/innovations-in-travel-modeling/event-summary-b5513a90f03e41cb8bb94047c1a4e53e.aspx).
+A session (#547) at the 2016 TRB Annual Meeting was devoted to discussing the strengths, weaknesses, opportunities, and threats to this straw man program proposal.  In response, modifications have been made to this proposals and others have put forward their ideas.  We hope to continue the broader discussion at the [2016 Innovations in Travel Modeling conference](http://www.cvent.com/events/innovations-in-travel-modeling/event-summary-b5513a90f03e41cb8bb94047c1a4e53e.aspx).
 
 
 
