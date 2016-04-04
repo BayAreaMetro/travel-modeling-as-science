@@ -22,8 +22,14 @@ The organization advocates, facilitates, and supports the modernization of the t
 
 * Convene an initial conference to launch the first tranche of supported initiatives, possibly in cooperation with related efforts (e.g., TRB).
 
+**Approach**
 
+Ultimately, travel modeling will advance through specific projects undertaken by a broad array of actors, including public agency staff, consulting firms, researchers, software vendors, and others.  The organization anticipates playing two key roles in facilitating projects: 
+ 
+* Publishing projects -- Anyone may submit a project and ask for it to be reviewed for "publication".  This review ensures that the project conforms to a basic standard of data recording and sharing, and reproducibility. An accepted project will be hosted and made available to our users.  
 
-The remainder of this document provides specific organizational details. 
+* Incubating projects -- Incubating a project implies a higher level of involvement, where the project is actively developed to make it more broadly usable.  
+
+The remainder of this document provides specific organizational details, and describes each of these roles.  
 
 

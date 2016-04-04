@@ -5,8 +5,7 @@ Is Travel Modeling Science or Engineering?
 Merriam Webster defines science and engineering as follows:
 
 **[Science](http://www.merriam-webster.com/dictionary/science)**:  
-> Knowledge about or study of the natural world based on facts learned through experiments 
-and observation. 
+> Knowledge about or study of the natural world based on facts learned through experiments and observation. 
     
 **[Engineering](http://www.merriam-webster.com/dictionary/engineering)**:  
 > [A] The application of science and mathematics by which the properties of matter and the 
