@@ -60,6 +60,6 @@ A foundation member is a person who was nominated by current members and elected
 ### Calendar
 The board will meet no fewer than four times a year to consider the operations of the organization and evaluate new and continuing resolutions for PMCs.
 
-
+[Next: 7 - Advancement](7-advancement.md)  
 
 

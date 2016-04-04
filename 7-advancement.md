@@ -15,3 +15,5 @@ There are multiple programs that will be administered in order to advance the pr
 ### Targeted Research Grants
 
 ### Advanced Practice Grants
+
+[Next: 8 - Progressing this Proposal](8-progressing.md)  

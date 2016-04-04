@@ -32,3 +32,4 @@ These foundations are based on the concept of "meritocracy" -- literally, govern
 
 Each incubated project is free to manage itself how it sees fit: so, many of the guiding "scientific" approaches in the original strawman can be carried over if they are considered valuable by the members working on that project. The Board could even provide a framework for this: software best-practices, validation approaches, etc.
 
+[Next: 1 - Problem](1-problem.md)  

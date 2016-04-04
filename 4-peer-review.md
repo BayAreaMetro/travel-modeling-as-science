@@ -54,3 +54,5 @@ The criteria are intended to be broad enough that many different kinds of travel
 **Publication**
 
 When a project is published, the organization will host it and make it available to our users.  Users can access it with a degree of confidence that everything is available such that they can download it and use it themselves, with a moderate degree of effort.  Authors will retain ownership and commit rights to the project such that they can continue to develop it as they see fit.  The version that was peer reviewed will be tagged such that that exact version can be referenced for future use.   
+
+[Next: 5 - Starting Point](5-starting-point.md)  

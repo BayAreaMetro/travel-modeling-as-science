@@ -32,4 +32,4 @@ Ultimately, travel modeling will advance through specific projects undertaken by
 
 The remainder of this document provides specific organizational details, and describes each of these roles.  
 
-
+[Next: 4 - Publishing and Peer Review](4-peer-review.md) 
