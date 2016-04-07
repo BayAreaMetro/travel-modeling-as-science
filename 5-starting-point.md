@@ -1,8 +1,10 @@
-## 3 - Starting Points
+## 3 - Starting Points for Incubated Projects
 
 We anticipate a wide array of involved stakeholders, who will advocate for a mosaic of complementary projects spanning the many interests and needs of our industry.
 
 Thus, one of the first challenges will be selecting the initial set of initiatives that will be actively supported. There are many candidates already in existence; some of them are at least partially duplicative or competitive with each other. The foundation doesn’t want to be “kingmaker” but with limited resources, reality dictates the need for careful selection and stewardship.
+
+Eventually, we anticipate that incubated projects will be selected from among the published projects.  This does two things.  First, it ensures that there is an open process by which anyone can participate, and a means for judging the interest level in a project among the user base prior to investing incubation resources in it.  Second, it provides an additional incentive for authors to submit projects for publication--that those projects become eligible for incubation.  
 
 ### Potential Incubated Projects
 
@@ -49,4 +51,4 @@ There are a variety of other projects that have considerable user-bases that cou
 [GTFS-Plus](https://github.com/osplanning-data-standards/GTFS-PLUS) is a transit network specification that is compatible with GTFS tools yet capable of being used for dynamic transit assignment.
 
 
-
+[Next: 6 - Decision-making](6-decision-making.md)  
