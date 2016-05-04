@@ -5,6 +5,9 @@ A non-profit organization as described in [A - Foundation Structure](A-foundatio
 ### Board
 The organization will be overseen by a seven-member board comprised of travel analysis researchers, developers, users, and stakeholders.  
 
+### Project Selection
+One of the first challenges will be selecting the initial set of initiatives that will be actively supported. There are many candidates already in existence; some of them are at least partially duplicative or competitive with each other. The foundation doesn’t want to be “kingmaker” but with limited resources, reality dictates the need for careful selection and stewardship.
+
 ### Officers
 The Officers of the foundation oversee the day-to-day affairs of the Foundation. The officers are elected by the Board of Directors.
 
