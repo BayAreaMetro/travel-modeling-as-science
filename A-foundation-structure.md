@@ -20,25 +20,25 @@ This page gives an overview of the proposed foundation structure: the difference
 
 ## WHAT IS THE (ITM) FOUNDATION?
 
-The foundation is a 501(c)3 non-profit public charity organization incorporated in the United States of America and was formed in 2016. It supports innovation, development, and sharing in model development.
+The foundation is a 501(c)3 non-profit public charity organization incorporated in the United States of America and was formed in 2016. The organization advocates, facilitates, and supports the modernization of the travel analysis industry to be responsive to stakeholder needs. 
 
 This foundation was formed out of an on-going need identified by urban planning practitioners across the nation to focus on innovation rather than rebuilding the same tools over and over again. This foundation will serve as an independent legal entity to which community members can contribute code, funding, and other resources, secure in the knowledge that their contributions will be maintained for public benefit.
 
 To serve this mission, the foundation has established the following goals:
 
-* Serve as a clearinghouse of innovative planning methods that can be applied in regions, cities, and neighborhoods across the country.
+* Serve as a clearinghouse of useful planning tools and methods and an incubator for development of innovative planning methods that can be applied in regions, cities, and neighborhoods across the country.
 
-* Provide critical infrastructure – legal, funding, hosting – to support the development of innovative planning tools.
+* Provide critical infrastructure (legal, funding, hosting) to support the development of useful planning tools and methods.
 
-* Ensure advanced planning tools will remain in the public domain under clear open source licenses.
-
-* Lead the conversion of promising research in urban planning into applied tools for use by practitioners.
+* Guide research toward useful outcomes for stakeholders.
 
 * Ensure tools developed under its guidance meet the most stringent software engineering and quality control standards.
 
 * Encourage the use of open data standards and interoperability across planning tools and related products.
 
-* Operate an annual conference related to the development and application of open planning tools, possibly in cooperation with related efforts (e.g., TRB).
+* Teach basic core competency in modern travel analysis skills, through workshops, online materials, and training. 
+
+* Convene an initial conference to launch the first tranche of supported initiatives, possibly in cooperation with related efforts (e.g., TRB).
 
 ## A BIT OF HISTORY
 
@@ -56,7 +56,7 @@ The foundation is governed by the following entities:
 
 * Board of Directors (board) governs the foundation and is composed of members.
 
-* Project Management Committees (PMC) govern the projects, and they are composed of committers. (Note that every member is, by definition, also a committer.)
+* Project Management Committees (PMC) govern the projects, and they are composed of stakeholders, users, and members. 
 
 * Various Officers of the corporation, appointed by the board, who set Foundation-wide policies in specific areas (legal, brand, fundraising, etc.)
 
@@ -72,9 +72,9 @@ The board website has more information, the list of the current directors, sched
 #### PROJECT MANAGEMENT COMMITTEES (PMC)
 The Project Management Committees are established by resolution of the Board, to be responsible for the active management of one or more communities, which are also identified by resolution of the Board.
 
-Each PMC consists of at least one officer of the foundation, who shall be designated chairperson, and may include one or more other members of the foundation.
+Each PMC consists of at least one officer of the foundation, one chairperson, and may include one or more other members of the foundation.
 
-The chair of the PMC is appointed by the Board and is an officer of the foundation (Vice President). The chair has primary responsibility to the Board, and has the power to establish rules and procedures for the day to day management of the communities for which the PMC is responsible, including the composition of the PMC itself. See further discussion about the role of PMC chair and why chairs are officers.
+The chair of the PMC is appointed by the Board, has primary responsibility to the Board, and has the power to establish rules and procedures for the day to day management of the communities for which the PMC is responsible, including the composition of the PMC itself. 
 
 The foundation Bylaws (section 6.3) define a PMC and the position of chair. The role of the PMC from a Foundation perspective is oversight. The main role of the PMC is not code and not coding - but to ensure that all legal issues are addressed, that procedure is followed, and that each and every release is the product of the community as a whole. That is key to our litigation protection mechanisms.
 
@@ -94,39 +94,43 @@ The Officers of the foundation oversee the day-to-day affairs of the Foundation.
 ## ROLES
 The meritocracy typically has various roles within each individual project community:
 
+* stakeholder
 * user
-* developer
-* committer
+* contributor
+* associate
+
+#### STAKEHOLDER
+A stakeholder is someone that has an interest in the results of the project in order to better accomplish their job. They contribute to the foundation projects by providing feedback to the PMC about the overall direction and needs of the project. Stakeholders participate in the foundation community by serving as a subject matter resource.
 
 #### USER
-A user is someone that uses our software. They contribute to the foundation projects by providing feedback to developers in the form of bug reports and feature suggestions. Users participate in the foundation community by helping other users on mailing lists and user support forums.
+A user is someone that uses our project. They contribute to the foundation projects by providing feedback to developers in the form of bug/error reports and feature suggestions. Users participate in the foundation community by helping other users in user support forums.
 
-#### DEVELOPER
-A developer is a user who contributes to a project in the form of code or documentation. They take extra steps to participate in a project, are active on the developer mailing list, participate in discussions, provide patches, documentation, suggestions, and criticism. Developers are also known as contributors.
+#### CONTRIBUTOR
+A developer is a user who contributes to a project in the form of data, code, analysis, and documentation. They take extra steps to participate in a project, are active on the developer mailing list, participate in discussions, provide patches, documentation, suggestions, and criticism. Developers are also known as contributors.
 
-#### COMMITTER
-A committer is a developer that was given write access to the code repository and has a signed Contributor License Agreement (CLA) on file. They have a foundation mail address. Not needing to depend on other people for the patches, they are actually making short-term decisions for the project. The PMC can (even tacitly) agree and approve it into permanency, or they can reject it. Remember that the PMC makes the decisions, not the individual committers.
+#### ASSOCIATE [ INVESTIGATOR? OTHER?]
+An associate is a contributor that was given management access to the project files ( including code repositories if applicable ) and has a signed Contributor License Agreement (CLA) on file. They have a foundation mail address. Not needing to depend on other people for the patches or small changes, they are actually making short-term decisions for the project. The PMC can (even tacitly) agree and approve it into permanency, or they can reject it. Remember that the PMC makes the decisions, not the individual associate.
 
 #### PMC MEMBER
-A PMC member is a developer or a committer that was elected due to merit for the evolution of the project and demonstration of commitment. They have write access to the code repository, an apache.org mail address, the right to vote for the community-related decisions and the right to propose an active user for committership. The PMC as a whole is the entity that controls the project, nobody else. In particular, the PMC must vote on any formal release of their project's software products.
+A PMC member is a stakeholder, contributor or associate that was elected due to merit for the evolution of the project and demonstration of commitment. They have write and owner-level access to the project files, an organization email address, the right to vote for the community-related decisions and the right to propose an active user for associateship. The PMC as a whole is the entity that controls the project, nobody else. In particular, the PMC must vote on any formal release of their project's products.
 
 #### PMC CHAIR
 The Chair of a Project Management Committee (PMC) is appointed by the Board from the PMC Members. The PMC as a whole is the entity that controls and leads the project. The Chair is the interface between the Board and the Project. PMC Chairs have specific duties.
 
 #### FOUNDATION MEMBER
-A foundation member is a person who was nominated by current members and elected due to merit for the evolution and progress of the foundation. Members care for the foundation itself. This is usually demonstrated through the roots of project-related and cross-project activities. Legally, a member is a "shareholder" of the foundation, one of the owners. They have the right to elect the board, to stand as a candidate for the board election and to propose a committer for membership. They also have the right to propose a new project for incubation (we'll see later what this means). The members coordinate their activities through their mailing list and through their annual meeting. We have a full listing of Apache Members.
+A foundation member is a person who was nominated by current members and elected due to merit for the evolution and progress of the foundation. Members care for the foundation itself. This is usually demonstrated through the roots of project-related and cross-project activities. Legally, a member is a "shareholder" of the foundation, one of the owners. They have the right to elect the board, to stand as a candidate for the board election and to propose a committer for membership. They also have the right to propose a new project for incubation (we'll see later what this means). The members coordinate their activities through their mailing list and through their annual meeting. We have a full listing of members.
 
 ## PROJECT MANAGEMENT AND COLLABORATION
 The foundation projects are managed using a collaborative, consensus-based process. We do not have a hierarchical structure. Rather, different groups of contributors have different rights and responsibilities in the organization.
 
 Since the appointed Project Management Committees have the power to create their own self-governing rules, there is no single vision on how PMCs should run a project and the communities they host.
 
-At the same time, while there are some differences, there are a number of similarities shared by all the projects:
+At the same time, while there are some differences, there are a number of similarities shared by all the projects and best practices that are suggested:
 
 #### COMMUNICATION
-Communication is done via mailing lists. These identify "virtual meeting rooms" where conversations happen asynchronously, which is a general requirement for groups that are so geographically distributed to cover all time zones (like it's normally the case for the various foundation communities).
+Communication is done via emailing lists. These identify "virtual meeting rooms" where conversations happen asynchronously, which is a general requirement for groups that are so geographically distributed to cover all time zones (like it's normally the case for the various foundation communities).  Virtual meeting rooms can be a GitHub issue, an online shared document, or something else.
 
-Some projects additionally use more synchronous messaging (for example, IRC or instant messaging). Voice communication is extremely rare, normally because of costs and the language barrier (speech is harder to understand than written text).
+Some projects additionally use more synchronous messaging or video chats (for example, instant messaging, skype, or google hangout).
 
 In general, asynchronous communication is much more important because it allows archives to be created and it's more tolerant on the volunteer nature of the various communities.
 
@@ -155,19 +159,19 @@ This process is called "consensus gathering" and we consider it a very important
 Specific cases have some more detailed voting rules.
 
 #### PHILOSOPHY
-While there is not an official list, these six principles have been cited as the core beliefs of philosophy behind the foundation, which is normally referred to as "The Apache Way":
+While there is not an official list, these six principles have been cited as the core beliefs of philosophy behind the foundation, which is normally referred to as "The Apache Way" and have been adapted for this Foundation:
 
 * respectful, honest, technical-based interaction
 
-* collaborative software development
+* driven by usefulness
 
-* commercial-friendly standard license
+* user-friendly packaging and licensing
 
-* consistently high quality software
+* consistently high quality work products
 
 * faithful implementation of standards
 
-* security as a mandatory feature
+* lawfulness as a mandatory feature
 
 All of the foundation projects share these principles. Similarly, foundation projects are required to govern themselves independently of undue commercial influence.
 
@@ -186,7 +190,7 @@ All of those foundation people implicitly have multiple hats, especially the Boa
 Some people declare their hats by using a special footer to their email, others enclose their statements in special quotation marks, others use their apache.org email address when otherwise they would use their personal one. This latter method is not reliable, as many people use their apache.org address all of the time.
 
 #### BALANCING CONFIDENTIALITY AND PUBLIC DISCUSSION
-We endeavour to conduct as much discussion in public as possible. This encourages openness, provides a public record, and stimulates the broader community.
+We endeavor to conduct as much discussion in public as possible. This encourages openness, provides a public record, and stimulates the broader community.
 
 However sometimes internal private mail lists are necessary. You must never divulge such information in public without the express permission of the list. Also never copy an email between private and public lists (no Cc). Such an event would go beyond the normal need for email ettiquette and be a serious breach of confidence. It could have serious ramifications, cause unnecessary confusion and ill-informed discussion.
 
@@ -209,7 +213,7 @@ The incubator is responsible for:
 
 It must be noted that the incubator (just like the board) does not perform filtering on the basis of technical issues. This is because the foundation respects and suggests variety of technical approaches. It doesn't fear innovation or even internal confrontation between projects which overlap in functionality.
 
-The incubator filters projects on the basis of the likeliness of them becoming successful meritocratic communities. The basic requirements for incubation are:
+The incubator filters projects on the basis of the likeliness of them becoming successful meritocratic communities. Example requirements for incubation are:
 
 * a working codebase -- over the years and after several failures, the foundation came to understand that without an initial working codebase, it is generally hard to bootstrap a community. This is because merit is not well recognized by developers without a working codebase. Also, the friction that is developed during the initial design stage is likely to fragment the community.
 
@@ -223,18 +227,16 @@ The incubation period normally serves to estimate whether or not:
 
 It might seem rather easy to achieve, but it must be remembered that in a volunteer and highly selective environment, attracting new committers is not automatic.
 
-Diversity of committership is important for two main reasons:
+Diversity of associateship is important for two main reasons:
 
 * it gives long term stability to the project development: in fact, with all the developers affiliated to the same entity, the chance of seeing all of them moving away from the project at the same time is much greater than with a community of individuals affiliated to unrelated entities.
 
 * it gives a greater variety of technical visions: something that guarantees a better adherence to environment and user's needs, thus a higher change of finding real-life use of the software.
 
 ## OTHER FOUNDATION ENTITIES
-Along with the Incubator, the foundation has several other cross-foundation projects. For example the foundation does not have offices or buildings, it's a virtual entity that exists only on the internet and the technical infrastructure that enables it to operate is managed by the Infrastructure team.
+Along with the Incubator, the foundation has several other cross-foundation projects. 
 
-These and other cross-foundation projects are described on the Foundation Projects page.
-
-The foundation also hosts some foundation-wide mailing lists, which are detailed on the Mailing Lists page.
 
 ## IN REVIEW...
 The Apache Foundation represents one of the best examples of an open organization that has found balance between structure and flexibility. We hope to emulate their success here. We strive to find balance between openness and economical feasibility. We hope to continue to provide inspiration for businesses, governments, education, and for other foundations.
+
